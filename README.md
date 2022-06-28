@@ -1,5 +1,3 @@
-## Welcome to my github! 👋
-
 <div align="center">
 	<img src="https://media.giphy.com/media/gYTnmOlwuvomHHMfgW/giphy.gif">
 </div>
