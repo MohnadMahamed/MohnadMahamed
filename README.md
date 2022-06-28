@@ -1,4 +1,4 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
+[![Header](http://pa1.narvii.com/7814/eb901c5434ebdc4a33d81f39dbfff66b2f3a11e5r1-320-179_00.gif)
 
 ##### Hi there, I'm Mohnad Mahamed 👋❤️
 
