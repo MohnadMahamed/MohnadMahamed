@@ -1,4 +1,8 @@
-[![Header](https://media4.giphy.com/media/gYTnmOlwuvomHHMfgW/giphy.gif?cid=790b761145d5bb8a7b7d142ba699c68b5e66ea9ddb956eca&rid=giphy.gif&ct=g)
+## Welcome to my github! 👋
+
+<div align="center">
+	<img src="https://media.giphy.com/media/gYTnmOlwuvomHHMfgW/giphy.gif">
+</div>
 
 <h2> Hi there, I'm Mohnad Mahamed 👋❤️ </h2>
 
