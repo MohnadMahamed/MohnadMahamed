@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohnad-mahamed-9795ab188/)
 
 <hr>
-<h3> Languages I use </h3>
+<h3> - Languages I use </h3>
 
 ![C#](https://img.shields.io/badge/-C#-000000?style=flat&logo=c#)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -23,18 +23,18 @@
 ![DART](https://img.shields.io/badge/-DART-000000?style=flat&logo=DART)
 
 
-<h3> Some of the technologies I have worked with </h3>
+<h3> - Some of the technologies I have worked with </h3>
 
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat&logo=Laravel&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Flutter](https://img.shields.io/badge/-Flutter-222222?style=flat&logo=Flutter&logoColor=61DAFB)
 <hr>
-<h3> Samples from my projects </h3>
+<h3> - Samples from my projects </h3>
 
-### Fazakkir
 
-Fazakkir - فذكر This Islamic App Which contains all things muslim needs
+### Fazakkir - فذكر <br>
+This Islamic App Which contains all things muslim needs
 
 <p><a href="https://play.google.com/store/apps/details?id=com.mohnad.fazakkir" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
 
