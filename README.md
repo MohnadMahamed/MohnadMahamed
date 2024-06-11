@@ -4,8 +4,8 @@
 
 <h2> Hi there, I'm Mohnad Mahamed 👋❤️ </h2>
 
-- Recent computer science graduate from Mansoura university🎓
-- I'm Junior Mobile app Developer with flutter framework 💻
+- Computer science graduate from Mansoura University 🎓
+- I'm a Mobile App Developer with Flutter framework 💻
 - You can reach me with the links below :mailbox:
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohnadmahamed7777@gmail.com)
@@ -26,7 +26,7 @@
 ![DART](https://img.shields.io/badge/-DART-000000?style=flat&logo=DART)
 
 
-<h3> - Some of the technologies I have worked with : </h3>
+<h3> - Some of the technologies I have worked with: </h3>
 
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat&logo=Laravel&logoColor=FCC624)
@@ -37,7 +37,7 @@
 
 
 ### Fazakkir - فذكر <br>
-This Islamic App Which contains all things muslim needs
+This Islamic App Which contains all things Muslim needs
 
 <p><a href="https://play.google.com/store/apps/details?id=com.mohnad.fazakkir" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
 <hr>
